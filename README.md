@@ -11,5 +11,5 @@ Resources, writeups, and code from my journey into cybersecurity—one night at 
 2. Packet sniffer using Python and Scapy
 
 ## 🔗 Links
-- [My GitHub]()
-- [TryHackMe Profile](https://tryhackme.com/p/yourusername)
+- [My GitHub](https://github.com/honeyhoneyy/cybersec-notes/pulls)
+- [TryHackMe Profile](http://tryhackme.com/p/jannathlaya)
